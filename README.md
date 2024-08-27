@@ -1,6 +1,6 @@
 
 ## Hello! I'm Nicoly Nogueira 😉
-- 👩🏻‍💻Software engineering student 7/7.
+- 👩🏻‍💻 Studying software engineering 7/7.
 <div>
 <img align="right" src="https://github.com/user-attachments/assets/7c89f58b-0d5d-4620-b9cc-a1a2a1990701" width="290px" /> 
 <a href="https://github.com/nicolynsilva">
